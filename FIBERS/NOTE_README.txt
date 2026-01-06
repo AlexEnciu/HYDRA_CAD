@@ -1,0 +1,1 @@
+This is not the final drawing for the fibers, the entire electronics is missing due to highly detailed 3d models wich make my PC crash. I will solve the issue soon, meanwhile you have all the elements to start the final assembly.

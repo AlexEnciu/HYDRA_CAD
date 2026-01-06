@@ -1,0 +1,1 @@
+I was not able to save the entire assembly for the electronics. But this are the main components. On the TPC we have 8 "HYDRA_VMM3_Adapter.step" 32 mm pitch and 48 "VMM3_Card_with_flex_AddOn.STEP" which have to fit in the card sockets.
